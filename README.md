@@ -56,6 +56,7 @@
 
 * Essayez de reproduire les étapes vues pour Github. Le dépôt sur Bitbucket se situe ici : [https://bitbucket.org/vjousse/tp-conduite-projet-2014](https://bitbucket.org/vjousse/tp-conduite-projet-2014).
 
+
 * Pouvez-vous pousser votre code qui est actuellement sur Github directement sur Bitbucket ? Si oui, comment ?
 
 ## Remerciements
@@ -76,4 +77,5 @@ Fortement inspiré du [TP d'Aurélien Bénel](https://github.com/benel/TP-Git).
 * Rémi Plantade.
 * A Louis Chevalier.
 * Pancher Pierre-louis.
-* A Thibault Gauran
+* A Thibault Gau
+* OKROU PODA.
